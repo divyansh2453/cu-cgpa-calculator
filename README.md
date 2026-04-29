@@ -15,7 +15,7 @@
 
 <br/>
 
-![preview]([https://cu-cgpa-calculator.netlify.app/preview.png](https://raw.githubusercontent.com/divyansh2453/cu-cgpa-calculator/main/preview.png))
+![preview](https://raw.githubusercontent.com/divyansh2453/cu-cgpa-calculator/main/preview.png)
 
 </div>
 
