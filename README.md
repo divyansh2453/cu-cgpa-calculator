@@ -137,7 +137,7 @@ Got a feature idea or found a bug? Open an issue or submit a PR — contribution
 
 ## 📣 Share It
 
-If this helped you, share it with your CU batchmates 👇
+If this helped you, share it with your CU batchmates 
 
 **[https://cu-cgpa-calculator.netlify.app](https://cu-cgpa-calculator.netlify.app)**
 
